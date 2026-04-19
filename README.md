@@ -2,11 +2,32 @@
 This project presents a synthetically generated comparative healthcare data analysis of cancer disease burden across five of the most populated West African countries: Nigeria, Ghana, Côte d’Ivoire, Niger, and Burkina Faso, using structured epidemiological and financial datasets spanning 2021 to 2026.
 
 # Project Preview
-During the course of this study and analysis, I had a great setback in respect to data generation, accuracy, insights to analyse, age comparism which appeared to cover a range of age brackets per RecordID. It involved critical thoughts at every step to harness every information required to transform this datasets into informational Analysis.
+## What is Cancer
+Cancer is a large group of diseases identified by the uncontrolled growth and spread of abnormal cells in the body. Instead of dying, these cells multiply and can invade closeby tissues or travel to other parts of the body (metastasis) through the blood or lymphatic systems. There are 100+ types of cancer, and are usually named for the organ or tissue where they start.
+
+<img width="324" height="155" alt="images" src="https://github.com/user-attachments/assets/47921139-d842-4163-91eb-a1225ca58c96" />
+
+During the course of this study and analysis, I had a great setback in respect to data generation, accuracy, insights to analyse, age comparism which appeared to cover a range of age brackets per RecordID. It involved critical thoughts at every step to harness every information required to transform this datasets into formal and informational Analysis.
 
 ## West African Targeted States
 Nigeria
+
 Ghana
+
 Cote d'Ivoire
+
 Niger
+
 Bokina Faso
+
+## Types of Caner On The Study
+
+<img width="192" height="131" alt="images" src="https://github.com/user-attachments/assets/274ca8cc-acee-43e0-b0e8-6524f3b889b6" />  BREAST
+
+<img width="275" height="183" alt="images" src="https://github.com/user-attachments/assets/8a073bf3-48f9-47ac-a597-831cf10283e8" />  CERVICAL
+
+<img width="192" height="143" alt="images" src="https://github.com/user-attachments/assets/41d964c7-f362-4076-9701-81d789745216" />  PROSTATE
+
+<img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/ee068dba-41c7-4e6c-8b23-b93bdaa1c9d5" />  LIVER
+
+<img width="318" height="159" alt="images" src="https://github.com/user-attachments/assets/6892c6f9-df75-4c1e-bc8f-7b1a74b1c21d" />  COLORECTAL
