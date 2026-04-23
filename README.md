@@ -31,3 +31,14 @@ Bokina Faso
 <img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/ee068dba-41c7-4e6c-8b23-b93bdaa1c9d5" />  LIVER
 
 <img width="318" height="159" alt="images" src="https://github.com/user-attachments/assets/6892c6f9-df75-4c1e-bc8f-7b1a74b1c21d" />  COLORECTAL
+
+## STORY ANALYSIS AND NARATIVES
+The datasets are madeup of 1000 rows with each row representing a group/range of patients from across the age brackets, countries of study, cancer type. The Number of are distributed as follows;
+Total No Of Patients = 486,279 patients:This represents the number of patients accummulated across all possible rows within the country of analysis.
+
+### Counties and Number of Patients
+- Nigeria = 291,287
+- Niger = 285,467
+- Ghana = 328,849
+- Cote d'Ivoire = 298,078
+- Burkina Faso = 282,598
