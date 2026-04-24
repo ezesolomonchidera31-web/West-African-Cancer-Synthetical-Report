@@ -36,9 +36,23 @@ Bokina Faso
 The datasets are madeup of 1000 rows with each row representing a group/range of patients from across the age brackets, countries of study, cancer type. The Number of are distributed as follows;
 Total No Of Patients = 486,279 patients:This represents the number of patients accummulated across all possible rows within the country of analysis.
 
-### Counties and Number of Patients
-- Nigeria = 291,287
+### Countries and Number of Patients
+
+TOTAL NO OF AFFECTED PATIENTS
+= 1,486,279
+  
+PATIENTS BY NO OF SURVIVAL
+= 47,506
+
+PATIENTS BY NO OF DEATH
+= 1,438,773
+  
+- Nigeria = 291,287RHTE
 - Niger = 285,467
 - Ghana = 328,849
 - Cote d'Ivoire = 298,078
 - Burkina Faso = 282,598
+
+  
+
+ 
