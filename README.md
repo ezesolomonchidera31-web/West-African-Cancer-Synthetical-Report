@@ -91,8 +91,6 @@ Comparative analysis across countries highlighted disparities in both disease bu
 
 # VISUALIZATION
 
-<img width="953" height="482" alt="Cancer7" src="https://github.com/user-attachments/assets/1b8f5792-d3e0-49f1-9e5e-a086d92b1550" />
-
 <img width="957" height="476" alt="Cancer8" src="https://github.com/user-attachments/assets/34ee1668-2122-4fea-b9c6-939cf090562c" />
 
 <img width="958" height="479" alt="Cancer9" src="https://github.com/user-attachments/assets/6054fadf-0147-4528-a94c-ac9db19ecb30" />
