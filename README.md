@@ -59,9 +59,35 @@ PATIENTS BY NO OF DEATH
 
 # PROJECT OBJECTIVE
 
+1. To compare cancer prevalence and mortality across five West African countries—Nigeria, Ghana, Côte d’Ivoire, Niger, and Burkina Faso in order to identify patterns in disease burden and regional disparities.
+
+2. To evaluate survival outcomes and mortality rates across countries and cancer types, highlighting differences that may indicate variations in early detection, treatment access, and healthcare quality.
+
+3. To analyze the financial burden of cancer treatment, including treatment costs, insurance coverage, and out-of-pocket expenses, and assess how these factors differ between countries.
+
+4. To examine trends in cancer cases, deaths, and costs over time (2021–2026), providing insights into how the burden of cancer is evolving across the region.
+
+5. To develop an interactive data dashboard that integrates epidemiological and financial data to support data-driven decision-making, policy evaluation, and improved healthcare planning in West Africa.
+
+
 # TOOLS USED
+- Google chrome
+- ChatGpt
+- LinkedIn
+- Facebook
+- X
+- Laptop
+- Github
 
 # EXPLORATORY DATA ANALYSIS
+
+The exploratory data analysis focused on understanding the structure, distribution, and relationships within the cancer epidemiology and financial datasets across Nigeria, Ghana, Côte d’Ivoire, Niger, and Burkina Faso between 2021 and 2026. Initial steps involved checking for missing values, duplicate records, and inconsistencies in categorical variables such as cancer types, treatment categories, and geographic classifications.
+
+Descriptive statistics were used to summarize key variables, including total cases, deaths, survival rates, and treatment costs. Distribution analysis revealed variations in cancer burden across countries, with noticeable differences in mortality and recovery patterns. Cancer types were examined to identify those contributing most significantly to case counts and deaths.
+
+Temporal analysis was conducted to observe trends in cancer incidence and treatment costs over the six-year period. Additionally, relationships between financial indicators—such as insurance coverage and out-of-pocket expenditure and health outcomes were explored to identify potential associations.
+
+Comparative analysis across countries highlighted disparities in both disease burden and access to care. Overall, the EDA provided a foundational understanding of the dataset, identified key patterns and anomalies, and informed the direction for deeper analytical modeling and dashboard development
 
 # VISUALIZATION
 
